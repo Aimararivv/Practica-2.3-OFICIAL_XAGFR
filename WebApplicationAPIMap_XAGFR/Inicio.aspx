@@ -14,7 +14,7 @@
 
     <!-- Complementos del plugin -->
 
-    <script type="text/javascript" src='https://maps.google.com/maps/api/js?sensor=false&libraries=places&key=AIzaSyDqTDKfWQPS67DYvZbZxbIQDtAPtS4kBiM'></script>
+    <script type="text/javascript" src='https://maps.google.com/maps/api/js?sensor=false&libraries=places&key='></script>
     <script src="js/locationpicker.jquery.js"></script>
 </head>
 <body>
